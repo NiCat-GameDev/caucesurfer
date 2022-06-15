@@ -39,6 +39,9 @@
   <scripts name="scripts">
     <script>scripts\crearObjeto.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\controlObj</object>
     <object>objects\PlayerObj</object>

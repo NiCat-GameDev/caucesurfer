@@ -1,8 +1,8 @@
-///alarm actions
-posicion = irandom_range(1,3);
-objeto = irandom_range(1,2);
+///asigna valores aleatorios para usarlos luego
+posicion = irandom_range(1,3); //valor aleatorio para la posición
+objeto = irandom_range(1,2); //valor aleatorio para objeto
 
-//set del objeto q se va a crear OwO
+//switch del objeto q se va a crear OwO
 createObj = 0;
 switch(objeto){
     case 1:
@@ -12,7 +12,7 @@ switch(objeto){
         createObj = objObstacle;
         break;}
 
-//set de la posicion del objeto Owo
+//switch de la posicion del objeto Owo
 createPos = 0;
 switch(posicion){
     case 1:
@@ -27,4 +27,4 @@ switch(posicion){
         createPos = 300;
         break;}
 
-instance_create(createPos, 0, createObj);
+instance_create(createPos, 0, createObj); //crea el objeto y posición :3
