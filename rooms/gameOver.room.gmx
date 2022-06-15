@@ -61,8 +61,8 @@
     <instance objName="objWall" x="500" y="200" name="inst_91067F77" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objWall" x="500" y="300" name="inst_32B454A0" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objWall" x="500" y="400" name="inst_0E754F35" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="playBtn" x="246" y="301" name="inst_5AAB2062" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="gatosGO" x="261" y="225" name="inst_9BC889B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="playBtn" x="252" y="334" name="inst_5AAB2062" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="gatosGO" x="202" y="189" name="inst_9BC889B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

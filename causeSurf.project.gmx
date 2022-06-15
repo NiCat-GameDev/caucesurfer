@@ -14,6 +14,7 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprPlayBtn</sprite>
+    <sprite>sprites\sprCreditBtn</sprite>
     <sprite>sprites\sprPlayer</sprite>
     <sprite>sprites\sprObstacle</sprite>
     <sprite>sprites\sprWall</sprite>
@@ -43,6 +44,7 @@
     <object>objects\PlayerObj</object>
     <objects name="UI objects">
       <object>objects\playBtn</object>
+      <object>objects\objCreditBtn</object>
       <object>objects\objWall</object>
       <object>objects\objIndicador</object>
       <object>objects\Gatos</object>

@@ -53,6 +53,7 @@
   <instances>
     <instance objName="playBtn" x="134" y="374" name="inst_7DFE87CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="globalObj" x="0" y="0" name="inst_79C77CC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objCreditBtn" x="140" y="422" name="inst_E67273AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
